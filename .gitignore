@@ -1,2 +1,3 @@
-denoising/*
-voice_origin/*
+denoising/
+voice_origin/
+.DS_Store
